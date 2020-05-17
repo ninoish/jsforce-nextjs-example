@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-jsforce-example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@xstate/react": "^0.8.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "jsforce": "^1.9.3",
+    "next": "^9.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
